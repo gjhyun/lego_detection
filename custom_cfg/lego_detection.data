@@ -1,6 +1,0 @@
-classes=1
-train=custom_cfg/train.txt
-valid=custom_cfg/test.txt
-names=custom_cfg/lego_detection.names
-backup=backup/
-
